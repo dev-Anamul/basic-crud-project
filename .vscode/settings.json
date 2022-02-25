@@ -1,0 +1,7 @@
+{
+  // terminal
+  "terminal.integrated.fontFamily": "FiraMono Nerd Font",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
