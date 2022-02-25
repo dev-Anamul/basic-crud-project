@@ -6,7 +6,7 @@
   "scripts": {
     "js" : "json-server --watch db.json --port 5050"
   },
-  "author": "Rakib Adnan",
+  "author": "anamul_haque",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.1.3",
